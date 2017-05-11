@@ -1,0 +1,6 @@
+c:\users\yuvmtest\documents\visual studio 2015\Projects\FaceAPI\FaceAPI\bin\Debug\FaceAPI.exe.config
+c:\users\yuvmtest\documents\visual studio 2015\Projects\FaceAPI\FaceAPI\obj\Debug\FaceAPI.csprojResolveAssemblyReference.cache
+c:\users\yuvmtest\documents\visual studio 2015\Projects\FaceAPI\FaceAPI\bin\Debug\FaceAPI.exe
+c:\users\yuvmtest\documents\visual studio 2015\Projects\FaceAPI\FaceAPI\bin\Debug\FaceAPI.pdb
+c:\users\yuvmtest\documents\visual studio 2015\Projects\FaceAPI\FaceAPI\obj\Debug\FaceAPI.exe
+c:\users\yuvmtest\documents\visual studio 2015\Projects\FaceAPI\FaceAPI\obj\Debug\FaceAPI.pdb
